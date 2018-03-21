@@ -1,0 +1,24 @@
+{
+  "name": "line-iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalamell/line-iot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalamell/line-iot/issues"
+  },
+  "homepage": "https://github.com/kalamell/line-iot#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.0.1",
+    "express": "^4.16.3"
+  }
+}
