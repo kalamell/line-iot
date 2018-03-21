@@ -1,7 +1,7 @@
-.env
-node_modules
-lib/coinbasechart.png
-.idea
-lib/coinbasechart.*
-now.json
-rich-menu-upload.md
+#.env
+#node_modules
+#lib/coinbasechart.png
+#.idea
+##lib/coinbasechart.*
+#now.json
+#rich-menu-upload.md
